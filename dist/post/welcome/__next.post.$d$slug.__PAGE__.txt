@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/0ka051yepewro.js"],""]
+3:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-gray-50 flex items-center justify-center","children":["$","div",null,{"className":"text-center","children":[["$","h1",null,{"className":"text-2xl font-bold text-gray-900 mb-4","children":"文章不存在"}],["$","$L2",null,{"href":"/","className":"text-blue-600 hover:underline","children":"返回首頁"}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/0ka051yepewro.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Rexkx9LYRNV9aZBD6Z6Ed"}
+5:null

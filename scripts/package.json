@@ -1,0 +1,12 @@
+{
+  "name": "auto-publish-post",
+  "version": "1.0.0",
+  "description": "自動發布部落格文章的腳本",
+  "main": "publish.js",
+  "scripts": {
+    "publish": "node publish.js"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3"
+  }
+}
