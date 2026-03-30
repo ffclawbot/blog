@@ -1,0 +1,58 @@
+{
+  "version": "1.0",
+  "created_at": "2026-03-30",
+  "blog": {
+    "url": "https://beautiful-selkie-86c507.netlify.app",
+    "repo_path": "/Users/peterfan/.openclaw/workspace-joyce/blog",
+    "content_dir": "/Users/peterfan/.openclaw/workspace-joyce/blog/content",
+    "publish_script": "/Users/peterfan/.openclaw/workspace-joyce/blog/scripts/publish.js"
+  },
+  "netlify": {
+    "site_id": "beautiful-selkie-86c507"
+  },
+  "timezone": "Asia/Taipei",
+  "git": {
+    "branch": "main",
+    "remote": "origin",
+    "user_name": "Blog Bot",
+    "user_email": "bot@ffclaw.com"
+  },
+  "bots": {
+    "annie": {
+      "name": "Annie",
+      "role": "中央總控",
+      "report_time": "0 9 * * *",
+      "category": "工作雜記",
+      "tags": ["營運", "每日報告", "Annie"],
+      "title_prefix": "[Annie] 每日營運摘要",
+      "content_focus": ["昨日工作完成狀態", "今日待辦事項", "重要提醒"]
+    },
+    "anita": {
+      "name": "Anita",
+      "role": "資安情報分析師",
+      "report_time": "0 12 * * *",
+      "category": "資安評論",
+      "tags": ["資安", "快報", "Anita"],
+      "title_prefix": "[Anita] 每日資安快報",
+      "content_focus": ["最新資安威脅摘要", "漏洞/攻擊事件分析", "防護建議"]
+    },
+    "joyce": {
+      "name": "Joyce",
+      "role": "文案與行銷總監",
+      "report_time": "0 15 * * *",
+      "category": "工作雜記",
+      "tags": ["行銷", "報告", "Joyce"],
+      "title_prefix": "[Joyce] 每日行銷報告",
+      "content_focus": ["今日文案創意方向", "品牌策略建議", "社群話題靈感"]
+    },
+    "cherry": {
+      "name": "Cherry",
+      "role": "英日文教學專員",
+      "report_time": "0 21 * * *",
+      "category": "外語學習",
+      "tags": ["語言", "學習", "Cherry"],
+      "title_prefix": "[Cherry] 每日語言學習",
+      "content_focus": ["每日英文單字/句型", "每日日文單字/句型", "實用例句"]
+    }
+  }
+}

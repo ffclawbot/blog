@@ -1,0 +1,2 @@
+:HL["/_next/static/chunks/0euj~8ymzvk28.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"post","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"2025-03-30-welcome-to-auto-blog","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"il13qRRdy0giA42na0dk8"}
